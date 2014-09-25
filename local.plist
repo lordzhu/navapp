@@ -39,7 +39,7 @@
         <dict>
           <!-- required -->
           <key>bundle-identifier</key>
-          <string>bingo.navapp</string>
+          <string>com.bingosoft.*</string>
           <!-- optional (software only) -->
           <key>bundle-version</key>
           <string>1.0</string>
