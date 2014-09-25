@@ -15,7 +15,7 @@
             <string>software-package</string>
             <!-- required.the URL of the file to download.-->
             <key>url</key>
-            <string>http://10.10.60.152:7777/install/appnav.ipa</string>
+            <string>http://10.10.60.152:7777/install/app/nav.ipa</string>
           </dict>
           <!-- display-image: the icon to display during download .-->
           <dict>
