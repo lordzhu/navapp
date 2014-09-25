@@ -39,7 +39,7 @@
         <dict>
           <!-- required -->
           <key>bundle-identifier</key>
-          <string>bingo.navapp</string>
+          <string>net.bingosoft.navapp</string>
           <!-- optional (software only) -->
           <key>bundle-version</key>
           <string>1.0</string>
@@ -48,7 +48,7 @@
           <string>software</string>
           <!-- required.the title to display during the download.-->
           <key>title</key>
-          <string>公共文化数字支撑平台</string>
+          <string>应用集市</string>
         </dict>
       </dict>
     </array>
