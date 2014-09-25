@@ -48,7 +48,7 @@
           <string>software</string>
           <!-- required.the title to display during the download.-->
           <key>title</key>
-          <string>应用集市</string>
+          <string>应用集市0</string>
         </dict>
       </dict>
     </array>
