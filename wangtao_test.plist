@@ -15,7 +15,7 @@
             <string>software-package</string>
             <!-- required.the URL of the file to download.-->
             <key>url</key>
-            <string>http://59.252.48.5/install/app/nav.ipa</string>
+            <string>http://10.10.60.9/sso/DebugTool_v3.2.0.ipa</string>
           </dict>
           <!-- display-image: the icon to display during download .-->
           <dict>
@@ -39,7 +39,7 @@
         <dict>
           <!-- required -->
           <key>bundle-identifier</key>
-          <string>net.bingosoft.navapp</string>
+          <string>net.bingosoft.debugtool</string>
           <!-- optional (software only) -->
           <key>bundle-version</key>
           <string>1.0</string>
@@ -48,7 +48,7 @@
           <string>software</string>
           <!-- required.the title to display during the download.-->
           <key>title</key>
-          <string>应用集市</string>
+          <string>DebugTool</string>
         </dict>
       </dict>
     </array>
